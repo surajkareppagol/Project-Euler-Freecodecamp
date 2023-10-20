@@ -32,4 +32,4 @@ function Steps(number, sumOfNumber) {
 
 For example, if `number = 10`, then steps as `3, 1, 0` for `3, 5, 15` respectively, now if we substitute it in formula `(n * (n + 1) / 2)`, we get `10`.
 
-The `index.js` contains the code change the `number` variable to provide a limit.
+The `index.js` contains the code, change the `number` variable to provide a limit.
